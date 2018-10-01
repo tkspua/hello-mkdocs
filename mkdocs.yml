@@ -1,7 +1,14 @@
-site_name: My Docs
+site_name: 'My Docs'
+site_description: 'My Docs powerd by MkDocs'
+site_author: 'Martin Donath'
+
+repo_name: 'tkspua/hello-mkdocs'
+repo_url: 'https://github.com/tkspua/hello-mkdocs'
+
 theme:
   name: 'material'
+  language: 'ja'
   palette:
     primary: 'indigo'
     accent: 'indigo'
-  language: 'ja'
+
